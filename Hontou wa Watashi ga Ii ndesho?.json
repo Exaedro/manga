@@ -4,5 +4,14 @@
   "artist": "Miyasaki Izumi",
   "author": "Miyasaki Izumi",
   "cover": "https://mangadex.org/covers/44facaa9-b622-4523-859e-a33511e6864d/a2c25416-fc93-4c39-91fa-5dc7a9fa88ca.jpg",
-  "chapters": {}
+  "chapters": {
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1778871274",
+      "groups": {
+        "SACACHISPA": "/proxy/api/mangadex/chapter/5fa885e6-8fd8-4e4e-a65d-883c5e8c71de"
+      }
+    }
+  }
 }
