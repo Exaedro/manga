@@ -4,5 +4,28 @@
   "artist": "Fujikata Tsumuri",
   "author": "Fujikata Tsumuri",
   "cover": "https://i.imgur.com/ksVyDb6.jpeg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1780544174",
+      "groups": {
+        "SACACHISPA": [
+          "https://drive.usercontent.google.com/download?id=1wJh4JVOwHKYcsXh5fC8qilnFSj4SoGAl",
+          "https://drive.usercontent.google.com/download?id=1vI8NBs9xnrPksluAXJvN5p-HyFR3qLIg",
+          "https://drive.usercontent.google.com/download?id=18dMBI2_FUHn23G20RGbpRoGLHG9gp5qy",
+          "https://drive.usercontent.google.com/download?id=1Qav2Qz9tm-27dxYBr-jl8eeoA8M06XWe",
+          "https://drive.usercontent.google.com/download?id=1982emyDOtE7tD_IQzU0Rj103WmUizV_2",
+          "https://drive.usercontent.google.com/download?id=1JjBWaRnquoqPDuavLbOJxagIBmEgjakM",
+          "https://drive.usercontent.google.com/download?id=15syYyYdm7LB_Mm27eA22pPOHWmRpWO_-",
+          "https://drive.usercontent.google.com/download?id=1-0BxRHl-J0fj91G_4LxePzJhnx-V3HVW",
+          "https://drive.usercontent.google.com/download?id=1rbXV-90Vyr_p__US4dNN0n-uEogvgTd0",
+          "https://drive.usercontent.google.com/download?id=18g24CFI_obmQjNns2T3uAHXn1K4_UL0l",
+          "https://drive.usercontent.google.com/download?id=12BLeyMT1sPRdsPIhmxcY7lwufPjol8hr",
+          "https://drive.usercontent.google.com/download?id=1_5oyuMyEu1kC7ekPXVGRYMbTxypejMBC",
+          "https://drive.usercontent.google.com/download?id=1SGbB0KL8Zd8_zXAIgtAJvKenmYoUkv6D"
+        ]
+      }
+    }
+  }
 }
