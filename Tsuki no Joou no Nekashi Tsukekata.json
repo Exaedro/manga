@@ -10,21 +10,7 @@
       "volume": "1",
       "last_updated": "1780544174",
       "groups": {
-        "SACACHISPA": [
-          "https://i.imgur.com/HEiltN6.jpeg",
-          "https://i.imgur.com/VYy0eG6.jpeg",
-          "https://i.imgur.com/FaqNC0c.jpeg",
-          "https://i.imgur.com/O0wJa5C.jpeg",
-          "https://i.imgur.com/LgLVIRy.jpeg",
-          "https://i.imgur.com/JXqndiD.jpeg",
-          "https://i.imgur.com/cNmKlNB.jpeg",
-          "https://i.imgur.com/Bsh89UM.jpeg",
-          "https://i.imgur.com/tSknmoW.jpeg",
-          "https://i.imgur.com/XZc0M26.jpeg",
-          "https://i.imgur.com/YiycUwv.jpeg",
-          "https://i.imgur.com/G2PoHlX.jpeg",
-          ""
-        ]
+        "SACACHISPA": "/proxy/api/imgchest/chapter/ej7m5w9dayd"
       }
     }
   }
